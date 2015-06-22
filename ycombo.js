@@ -1,4 +1,4 @@
-var apiKey = '0d94e42d-d638-4044-9349-75014f9db908'
+var apiKey = 'XXX'
 var request = require('request');
 var fs = require('fs');
 var lo = require('lodash').flattenDeep;
